@@ -1,3 +1,3 @@
-# Power-BI-projects
+# Cricket world cup analysis
 
-This folder contains Power BI projects for practice.
+
